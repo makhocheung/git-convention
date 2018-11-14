@@ -15,3 +15,5 @@
 > bhd = branch -D
 
 > cfg = config --global -e
+
+> rsd = reset HEAD
