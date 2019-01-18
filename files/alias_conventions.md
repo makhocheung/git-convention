@@ -4,6 +4,8 @@
 
 > cm = commit
 
+> cma = commit --amend
+
 > ck = checkout
 
 > ckb = checkout -b
@@ -16,4 +18,10 @@
 
 > cfg = config --global -e
 
+> cfl = config --local -e
+
 > rsd = reset HEAD
+
+> crp = cherry-pick
+
+> ri = rebase -i
